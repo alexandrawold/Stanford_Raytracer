@@ -6,6 +6,8 @@ this is currently set for XZ coordinates
 
 """
 
+# this is to test git commit
+
 # import needed packages
 import numpy as np
 import matplotlib.pyplot as plt
